@@ -1,0 +1,6 @@
+Style/FrozenStringLiteralComment:
+  Include:
+    - lib/payment_gateway.rb
+
+Style/Documentation:
+  Enabled: false
